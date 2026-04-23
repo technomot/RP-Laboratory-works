@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\labworks\\RP Labwork5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BC6546C-CA30-4E86-A0B5-C29A8611A8E4}|RP Labwork5.vcxproj|C:\\Users\\Administrator\\source\\repos\\labworks\\RP Labwork5\\main.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0BC6546C-CA30-4E86-A0B5-C29A8611A8E4}|RP Labwork5.vcxproj|solutionrelative:main.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.asm",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\labworks\\RP Labwork5\\main.asm",
+              "RelativeDocumentMoniker": "main.asm",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\labworks\\RP Labwork5\\main.asm*",
+              "RelativeToolTip": "main.asm*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAALACAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-21T13:23:58.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
